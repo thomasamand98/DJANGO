@@ -1,0 +1,2 @@
+# DJANGO
+Initialisation à django
